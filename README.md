@@ -13,3 +13,6 @@ Week 3-4
 - Accordions Collapse
 - Tooltips, Popovers, and Modals
 - Carousel
+- Bootstrap and JQuery,
+- .less, .scss 
+- Deployment
